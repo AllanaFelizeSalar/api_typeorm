@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "database": {
         "host": "localhost",
@@ -7,3 +8,6 @@
         "database": "node-mysql-crud-api"
     }
 }
+=======
+ 
+>>>>>>> 1d7cc86a7166e7df0b36f8eb22e34df4ebfb7ad0
